@@ -1,0 +1,63 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.retangle {
+    width: 550px;
+    height: 390px;
+    border: 1px solid white;
+    margin: auto;
+    margin-top: 3%;
+    border-radius: 40px;
+    background-color: #590f0c;
+}
+
+.title{
+    width: 550px;
+    height: 50px;
+    margin-top: 4%;
+}
+
+h1{
+    width: 350px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    border: 2px solid white;
+    border-radius: 40px;
+}
+.text1{
+    width: 350px;
+    color: white;
+    margin: auto;
+    margin-top: 4%;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr {
+    width: 350px;
+    margin: auto;
+    margin-top: 3%;
+}
+
+.text2{
+    width: 350px;
+    text-align: center;
+    margin: auto;
+    margin-top: 2%;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+img{
+    width: 20%;
+    height: 20%;
+    display: flex ;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
